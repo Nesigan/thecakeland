@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "145704319801",
+    "project_id": "the-cake-land-app",
+    "storage_bucket": "the-cake-land-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145704319801:android:4b04a372183f8ee0ab86e8",
+        "android_client_info": {
+          "package_name": "com.example.the_cake_land"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145704319801-1h6oe4f0i845jpv294j9kl9f1ooagh14.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.the_cake_land",
+            "certificate_hash": "a22e38d0f9f4614028f3873e9788d23d19e23486"
+          }
+        },
+        {
+          "client_id": "145704319801-5baajvk9bcv9h2heb7sih8j065vulr44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClQJthVWV-hHoX5_SreAOyJBvbUw7CnvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145704319801-5baajvk9bcv9h2heb7sih8j065vulr44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
